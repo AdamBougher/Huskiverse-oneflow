@@ -2,4 +2,7 @@
 .DS_Store
 _site
 Gemfile.lock
+Gemfile
 .vscode
+README.md
+LICENSE.MD
