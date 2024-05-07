@@ -61,10 +61,10 @@ footer:
     - label: "Dev"
       icon: "fab fa-dev"
       url: "https://dev.to/per-starke-642"
-  copyright: "Per Starke Web Development" # Replace with your own
+  copyright: "71 North Partnership Studio" # Replace with your own
   creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
-      name: "Per Starke Web Development"
-      url: "https://perstarke-webdev.de"
+      name: "Adam Bougher"
+      url: "https://adambougher.com"
 
 
 
